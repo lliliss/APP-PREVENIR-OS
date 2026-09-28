@@ -1,0 +1,6 @@
+[submodule "api-os"]
+	path = api-os
+	url = https://github.com/lliliss/api-os.git
+[submodule "mobile-os"]
+	path = mobile-os
+	url = https://github.com/lliliss/mobile-os.git
