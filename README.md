@@ -86,8 +86,8 @@ CANCELADA   CANCELADA        CANCELADA
 ### 1. Clonar o repositório com os submódulos
 
 ```bash
-git clone --recurse-submodules https://github.com/lliliss/NOME_DO_APP.git
-cd NOME_DO_APP
+git clone --recurse-submodules https://github.com/lliliss/APP-PREVENIR-OS.git
+cd APP-PREVENIR-OS
 ```
 
 > Caso já tenha clonado sem os submódulos, rode:
