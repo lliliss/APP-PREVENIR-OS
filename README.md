@@ -19,7 +19,7 @@ prevenir-os/
 
 ---
 
-## ⚙️ Funcionalidades principais
+## Funcionalidades principais
 
 - **Autenticação de usuários** com login seguro via JWT e controle por perfil (Admin e Funcionários)
 - **Cadastro de clientes** com CNPJ, telefone e endereço
@@ -175,12 +175,11 @@ git submodule update --remote
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 | Nome | Função |
 |---|---|
-| Alice Ferreira | Analista de Sistemas Júnior
-| Alice Ferreira | Desenvolvedora Mobile e Full-Stack
+| Alice Ferreira | Analista de Sistemas Júnior e Desenvolvedora Full-Stack
 
 ---
 
